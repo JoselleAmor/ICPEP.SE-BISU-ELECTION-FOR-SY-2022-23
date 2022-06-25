@@ -10,7 +10,7 @@ OFFICER NOMINEES
 
 02 VP Internal Abellana, Lord Kevin
 02 VP Internal Esterado, Rica Noreen
-03 VP External Amorin, Nika
+03 VP External Amorin, Nika 
 04 Secretary Bernante, Daisy Marie
 04 Secretary Cadeliña, Mary Ranive
 04 Secretary Pelesco, Cherry
