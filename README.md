@@ -4,7 +4,7 @@ Personal Profile Google Form for Officer Nominees
 https://forms.gle/W2TJWw6SABavJUWx6
 
 OFFICER NOMINEES
-01 President Bentulan, Vince
+01 President Bentulan, Vince\n
 01 President Quinal, Joselle Amor A.
 
 
